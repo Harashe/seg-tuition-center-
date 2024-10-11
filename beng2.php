@@ -2,10 +2,10 @@
 session_start(); // Start a session
 
 // Database connection variables
-$host = 'localhost';
-$dbname = 'SegStudentsManagementDB';
-$user = 'postgres'; 
-$password = 'Ssempt2002@GMDB'; 
+$host = 'dpg-cs4ebi5svqrc738abegg-a';
+$dbname = 'segstudentsmanagementdb';
+$user = 'postgres_user'; 
+$password = '2oS4P4ZjFuMCz6hFeTxVhsm17cYsX53W';  
 
 // Establishing connection with PostgreSQL
 try {
