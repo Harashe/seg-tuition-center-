@@ -5,10 +5,10 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // Database connection variables
-$host = 'localhost';
-$dbname = 'SegStudentsManagementDB';
-$user = 'postgres'; // Use your actual PostgreSQL username
-$password = 'Ssempt2002@GMDB'; // Use your actual PostgreSQL password
+$host = 'dpg-cs4ebi5svqrc738abegg-a';
+$dbname = 'segstudentsmanagementdb';
+$user = 'postgres_user'; 
+$password = '2oS4P4ZjFuMCz6hFeTxVhsm17cYsX53W'; 
 
 // Establishing connection with PostgreSQL
 try {
