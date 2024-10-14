@@ -1,1 +1,0 @@
-# seg-tuition-center
